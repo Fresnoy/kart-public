@@ -1,0 +1,1 @@
+{{ object.artist.nickname }} {{ object.user.first_name }} {{ object.user.last_name }}

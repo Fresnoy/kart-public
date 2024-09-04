@@ -1,0 +1,57 @@
+[
+    {
+        "fields": {
+            "name": "Test",
+            "permissions": [
+                [
+                    "add_gallery",
+                    "assets",
+                    "gallery"
+                ],
+                [
+                    "change_gallery",
+                    "assets",
+                    "gallery"
+                ],
+                [
+                    "add_medium",
+                    "assets",
+                    "medium"
+                ],
+                [
+                    "change_medium",
+                    "assets",
+                    "medium"
+                ],
+                [
+                    "delete_medium",
+                    "assets",
+                    "medium"
+                ],
+                [
+                    "add_website",
+                    "common",
+                    "website"
+                ],
+                [
+                    "change_website",
+                    "common",
+                    "website"
+                ],
+                [
+                    "delete_website",
+                    "common",
+                    "website"
+                ],
+                [
+                    "change_student",
+                    "school",
+                    "student"
+                ]
+            ]
+        },
+        "model": "auth.group",
+        "pk": 1
+    }
+    ]
+    
